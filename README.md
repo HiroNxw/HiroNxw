@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://media.istockphoto.com/vectors/programming-design-concept-vector-id947663966?b=1&k=20&m=947663966&s=612x612&w=0&h=MrPXhQekXbc4WY-9M3vLghIMEZt6Cis_7HL7GhJzvpA=" height="175px"/></a>
+
 # Hi there, I'm Hiro
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HiroNxw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHiroNxwr&screen_name=HiroNxw)
@@ -26,9 +28,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiroNxw&layout=compact)](https://github.com/HiroNxw/github-readme-stats)
+   <a href="https://github.com/HiroNxw/github-readme-stats"><img alt="HiroNxw's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiroNxw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </details>
-
 
 
