@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiroNxw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## I'm a Studnent @UCLL.
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++ and Java
 - 🥅 2022 Goals: Learn more about pyhton, Java, C++ and web development
 
 
